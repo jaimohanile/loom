@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/%7Bloom%7D/static/js/main.a804e35d.js",
+    "reactPlayerVimeo.js": "/%7Bloom%7D/static/js/reactPlayerVimeo.1c6f063b.chunk.js",
+    "index.html": "/%7Bloom%7D/index.html",
+    "main.a804e35d.js.map": "/%7Bloom%7D/static/js/main.a804e35d.js.map",
+    "reactPlayerVimeo.1c6f063b.chunk.js.map": "/%7Bloom%7D/static/js/reactPlayerVimeo.1c6f063b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a804e35d.js"
+  ]
+}
