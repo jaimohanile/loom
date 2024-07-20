@@ -4,6 +4,11 @@ import screenfull from 'screenfull'
 
 import ReactPlayer from './player'
 import Duration from './Duration'
+import './reset.css'
+import './defaults.css'
+import './range.css'
+import './App.css'
+
 
 class App extends Component {
   state = {
