@@ -282,7 +282,13 @@ class App extends Component {
                   {this.renderLoadButton('https://www.loom.com/embed/847c9b4ae9c2475e935ac831206a5bca', 'Embed')}
                 </td>
               </tr>  
-              
+              <tr>
+                <th>Custom URL</th>
+                <td>
+                  <input ref={input => { this.urlInput = input }} type='text' placeholder='Enter URL' />
+                  <button onClick={() => this.setState({ url: this.urlInput.value })}>Load</button>
+                </td>
+              </tr>
         
             </tbody>
           </table>
